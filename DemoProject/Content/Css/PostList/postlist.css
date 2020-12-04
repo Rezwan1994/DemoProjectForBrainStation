@@ -1,0 +1,45 @@
+﻿.opportunities_pagination_inner {
+    float: right;
+}
+
+#pagination {
+    display: inline-block;
+}
+
+.paginationMiddleButtondv {
+    width: 78px;
+    float: left;
+    margin-right: 2px;
+}
+
+.PaginationButtons {
+    padding-left: 14px;
+    padding-right: 14px;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.NavigatonButtonsDiv {
+    float: left;
+    border: 1px solid #ccc;
+}
+
+.activeBtn {
+    background-color: #ddd !important;
+    color: black;
+    border: none;
+    height: 26px;
+    width: 35px;
+}
+
+.paginationRightButtondv {
+    width: 38px;
+    float: left;
+    margin-left: 2px;
+}
+#searchbardiv{
+    margin-top:20px;
+    margin-bottom:20px;
+}
